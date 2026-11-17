@@ -97,3 +97,18 @@ The gateway hosts a standalone, responsive web application at `http://192.168.4.
   "status": "SYSTEM_OK"
 }
 ```
+🚀 Setup & Flashing Instructions
+1. Prerequisites:
+Install Arduino IDE or PlatformIO in VS Code.
+
+Add ESP32 Board package support.
+
+2. Build Configuration:
+Board: ESP32 Dev Module
+
+3. Execution:
+Flash the firmware.
+
+Connect any mobile device or PC to Wi-Fi SSID: ESP32_OBD_Gateway (Password: diagnostic123).
+
+Navigate to http://192.168.4.1 in your browser.
