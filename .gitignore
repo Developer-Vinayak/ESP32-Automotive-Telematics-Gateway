@@ -1,0 +1,8 @@
+# Arduino IDE temporary build files
+*.hex
+*.bin
+*.elf
+*.o
+*.d
+build/
+local_config.h
